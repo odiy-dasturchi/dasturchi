@@ -4,4 +4,9 @@
 }
 .container{
     font-size: 36px;
+    line-height: 58px;
+}
+.card{
+    font-weight: 100;
+    color: aliceblue;
 }
